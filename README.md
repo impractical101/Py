@@ -1,3 +1,3 @@
 # Py
 commit codes 
-Personal Random Scripts
+Python problems solved. Trying to cover all the data structures as well as interview questions.
